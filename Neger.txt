@@ -6,13 +6,9 @@ dasf
 sasas
 dsadfa
 fasfafg
-do{
+do {
 
-	Jude = ewig;
+	Judensau = ewig;
 	Jud = süss;
-} while(demokratie = true);
-
-do{
-	Jude = ewig;
-	Jud = süss;
+	goebbels = reichsminister;
 } while(demokratie = true);
