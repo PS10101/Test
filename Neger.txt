@@ -6,3 +6,8 @@ dasf
 545345
 dsadfa
 fasfafg
+do{
+
+	Jude = ewig;
+	Jud = süss;
+} while(demokratie = true);
