@@ -8,7 +8,7 @@ gggs
 sasas
 dsadfa
 fasfafg
-do    {
+do{
 
 	Judensau = ewig;
 	Jud = süss;
@@ -16,7 +16,7 @@ do    {
 } while(demokratie = true);
 
 
-do{
+do {
 
 	Judensau = ewig;
 	Jud = süss;
