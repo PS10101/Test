@@ -14,3 +14,11 @@ do    {
 	Jud = süss;
 	goebbels = reichsminister;
 } while(demokratie = true);
+
+
+do    {
+
+	Judensau = ewig;
+	Jud = süss;
+	goebbels = reichsminister;
+} while(demokratie = true);
