@@ -28,10 +28,10 @@ do{
 } while(demokratie = true);
 sasas
 sad
-sdasd
+sdasdsas
 ffsllkdsfd
 /*da
-*ds
+*dsdd
 */7sdasd
 faf
 fdfsdf
