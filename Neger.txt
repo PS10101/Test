@@ -27,8 +27,9 @@ do{
 	goebbels = reichsminister;
 } while(demokratie = true);
 sasas
-
-ffsllkdsf
+sad
+sdasd
+ffsllkdsfd
 /*da
 *ds
 */7sdasd
