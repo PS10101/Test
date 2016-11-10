@@ -16,7 +16,7 @@ do    {
 } while(demokratie = true);
 
 
-do    {
+do{
 
 	Judensau = ewig;
 	Jud = süss;
