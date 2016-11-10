@@ -28,8 +28,11 @@ do{
 } while(demokratie = true);
 sasas
 
-/*
-*
-*/
+ffsllkdsf
+/*da
+*ds
+*/7sdasd
+faf
+fdfsdf
 
 continue;
