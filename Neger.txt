@@ -15,3 +15,11 @@ do  {
 	goebbels = reichsminister;
 } while(demokratie = true);
 sasas
+
+do  {
+
+	Judensau = ewig;
+	Jud = süss;
+	goebbels = reichsminister;
+} while(demokratie = true);
+sasas
