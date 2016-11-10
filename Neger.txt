@@ -8,17 +8,10 @@ gggs
 sasas
 dsadfa
 fasfafg
-do{
+do  {
 
 	Judensau = ewig;
 	Jud = süss;
 	goebbels = reichsminister;
 } while(demokratie = true);
-
-
-do {
-
-	Judensau = ewig;
-	Jud = süss;
-	goebbels = reichsminister;
-} while(demokratie = true);
+sasas
