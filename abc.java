@@ -4,4 +4,4 @@ do
 
 //
 
-hahahaha hh HH SS 88
+hahahaha
