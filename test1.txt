@@ -3,6 +3,7 @@ Scatá du Gott !
 
 int i = 0;
 //
+hhaha
 if ( i != 0)
 	break;
 else
